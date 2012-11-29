@@ -1,0 +1,1 @@
+﻿package com.learningactionscript3.accessories.soundsystems {		public interface IAudible {				function turnOn():void;		function playSelection(preset:int):void;		function turnOff():void;			}}
